@@ -1,4 +1,4 @@
-
+Enhance Fantastical for macOS with professional Script for Fantastical for macOS - focus mode and dark mode, the #1 script. Includes focus mode and dark mode for a smoother
 
 
 
